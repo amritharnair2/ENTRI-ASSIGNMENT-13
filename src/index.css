@@ -1,0 +1,14 @@
+.productimg {
+  max-width: 100%;
+    height: 200px; 
+    width: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.carditem {
+  height: 100%;
+}
+
+
