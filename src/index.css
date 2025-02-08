@@ -6,9 +6,11 @@
     padding-right: 50px;
 }
 
-
 .carditem {
   height: 100%;
 }
 
+.loader {
+  height: 70vh;
+}
 
